@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97d18aeeb1d8de1c6bb562552aba708a31c232c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

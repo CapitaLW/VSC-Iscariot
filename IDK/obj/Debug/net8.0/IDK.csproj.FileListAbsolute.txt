@@ -1,0 +1,15 @@
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\bin\Debug\net8.0\IDK.exe
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\bin\Debug\net8.0\IDK.deps.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\bin\Debug\net8.0\IDK.runtimeconfig.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\bin\Debug\net8.0\IDK.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\bin\Debug\net8.0\IDK.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.AssemblyInfoInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.AssemblyInfo.cs
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.csproj.CoreCompileInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.sourcelink.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\refint\IDK.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\IDK.genruntimeconfig.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\IDK\obj\Debug\net8.0\ref\IDK.dll
