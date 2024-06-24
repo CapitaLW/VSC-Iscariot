@@ -1,0 +1,15 @@
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\bin\Debug\net8.0\Idkwdywkd.exe
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\bin\Debug\net8.0\Idkwdywkd.deps.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\bin\Debug\net8.0\Idkwdywkd.runtimeconfig.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\bin\Debug\net8.0\Idkwdywkd.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\bin\Debug\net8.0\Idkwdywkd.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.AssemblyInfoInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.AssemblyInfo.cs
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.csproj.CoreCompileInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.sourcelink.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\refint\Idkwdywkd.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\Idkwdywkd.genruntimeconfig.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\Idkwdywkd\obj\Debug\net8.0\ref\Idkwdywkd.dll
