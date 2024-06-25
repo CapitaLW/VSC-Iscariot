@@ -1,7 +1,8 @@
 ﻿Console.Clear();
 
 Console.WriteLine("Schlip dawg?");
-string x = Console.ReadLine();
+Console.WriteLine("Age??");
+int x = Convert.ToInt32(Console.ReadLine());
 
 System.Console.WriteLine("youre not " + x);
 
