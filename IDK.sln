@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idkwdywkd", "Idkwdywkd\Idkw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum noo", "sum noo\sum noo.csproj", "{22A787F1-487C-417E-8713-90ECD4132254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idm", "idm\idm.csproj", "{921178E8-03A1-43F8-BA23-58E56699103D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{22A787F1-487C-417E-8713-90ECD4132254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A787F1-487C-417E-8713-90ECD4132254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A787F1-487C-417E-8713-90ECD4132254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921178E8-03A1-43F8-BA23-58E56699103D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921178E8-03A1-43F8-BA23-58E56699103D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921178E8-03A1-43F8-BA23-58E56699103D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921178E8-03A1-43F8-BA23-58E56699103D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
