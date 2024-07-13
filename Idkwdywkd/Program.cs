@@ -1,8 +1,7 @@
 ﻿Console.Clear();
-Console.WriteLine("WHAT SAY??");
-Console.ReadLine();
 
 
+Console.WriteLine(" Jaden ");
 
 
 Console.ReadKey();
