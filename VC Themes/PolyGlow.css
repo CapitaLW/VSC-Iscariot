@@ -1,9 +1,21 @@
 /**
- @name PolyGlow
- @author PolyGlot
- @version 1PLY
- @description AAAAAAAAAAAAAAAAAAAAA, MY EYES!
+ * @name PolyGlow
+ * @author PolyGlot
+ * @version 1PLY
+ * @description AAAAAAAAAAAAAAAAAAAAA, MY EYES!
+ * @source https://github.com/CapitaLW/VSC-Iscariot/tree/main/VC%20Themes
+ * @updateUrl https://github.com/CapitaLW/VSC-Iscariot/blob/main/VC%20Themes/PolyGlow.css
 */
 
+@import url(https://github.com/CapitaLW/VSC-Iscariot/tree/main/VC%20Themes);
 
+
+
+
+
+
+:root{
+    --PGLOW-spacing-app: 10px;
+
+}
 
