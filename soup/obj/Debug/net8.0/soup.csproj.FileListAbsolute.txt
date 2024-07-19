@@ -1,0 +1,15 @@
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\bin\Debug\net8.0\soup.exe
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\bin\Debug\net8.0\soup.deps.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\bin\Debug\net8.0\soup.runtimeconfig.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\bin\Debug\net8.0\soup.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\bin\Debug\net8.0\soup.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.AssemblyInfoInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.AssemblyInfo.cs
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.csproj.CoreCompileInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.sourcelink.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\refint\soup.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\soup.genruntimeconfig.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSC-Iscariot\soup\obj\Debug\net8.0\ref\soup.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\IDK\\IDK.csproj": {}
+    "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\soup\\soup.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\IDK\\IDK.csproj": {
+    "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\soup\\soup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\IDK\\IDK.csproj",
-        "projectName": "IDK",
-        "projectPath": "c:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\IDK\\IDK.csproj",
+        "projectUniqueName": "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\soup\\soup.csproj",
+        "projectName": "soup",
+        "projectPath": "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\soup\\soup.csproj",
         "packagesPath": "C:\\Users\\DRAXJ\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\IDK\\obj\\",
+        "outputPath": "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\soup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DRAXJ\\AppData\\Roaming\\NuGet\\NuGet.Config"

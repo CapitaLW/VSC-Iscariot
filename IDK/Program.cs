@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿l
 
 
 double A = 0, B = 0, i, j;
