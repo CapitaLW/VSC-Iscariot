@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tmg", "tmg\tmg.csproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Takss", "Takss\Takss.csproj", "{BD91A210-AD48-4916-9539-B1700C48327C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soup", "soup\soup.csproj", "{37A52C40-3DF6-4C1C-ADB8-1D84D5B7569C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{BD91A210-AD48-4916-9539-B1700C48327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD91A210-AD48-4916-9539-B1700C48327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD91A210-AD48-4916-9539-B1700C48327C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A52C40-3DF6-4C1C-ADB8-1D84D5B7569C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A52C40-3DF6-4C1C-ADB8-1D84D5B7569C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A52C40-3DF6-4C1C-ADB8-1D84D5B7569C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A52C40-3DF6-4C1C-ADB8-1D84D5B7569C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
