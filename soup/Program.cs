@@ -99,7 +99,7 @@
                 iscalcing = false;
             }
         }
-
+        Console.WriteLine("Bye Bye :)");
         Console.ReadKey();
     }
 }
