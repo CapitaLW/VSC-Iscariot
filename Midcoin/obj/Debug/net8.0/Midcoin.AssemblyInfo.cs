@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Midcoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd82e7e74cb4dfd127f73ca36e03663c42f79207")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+807cd9e842a6dc5d94038c5dd94e58d64909f8a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Midcoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Midcoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
