@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7shYknVW63M=",
+  "dgSpecHash": "H9TPiEprPrk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DRAXJ\\OneDrive\\Desktop\\VSC-Iscariot\\Idkwdywkd\\Idkwdywkd.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/Hemlock/Desktop/pyth/VSC-Iscariot/Idkwdywkd/Idkwdywkd.csproj",
+  "expectedPackageFiles": [
+    "/home/Hemlock/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/Hemlock/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/Hemlock/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
